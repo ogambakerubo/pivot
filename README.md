@@ -1,2 +1,0 @@
-# pivot
-Learning new things.

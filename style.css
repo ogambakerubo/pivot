@@ -89,3 +89,10 @@ h1{
 	text-align: center;
 	line-height: 40px;
 }
+
+.IndexLink{
+	text-decoration: underline;
+	text-align: center;
+	line-height: 0.3px;
+}
+
